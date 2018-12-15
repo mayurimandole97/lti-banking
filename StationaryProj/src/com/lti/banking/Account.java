@@ -12,7 +12,7 @@ public Account(int accId, String accTyp, double accBal) {
 	this.accTyp = accTyp;
 	this.accBal = accBal;
 }
-
+//new
 @Override
 public String toString() {
 	return "Account [accId=" + accId + ", accTyp=" + accTyp + ", accBal=" + accBal + "]";
